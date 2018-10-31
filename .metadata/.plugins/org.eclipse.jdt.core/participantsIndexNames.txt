@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+C:\Users\internousdev\Desktop\workspace\workspace-ashimine\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2519811589.index
+\動的webプロジェクト\src
+C:\Users\internousdev\Desktop\workspace\workspace-ashimine\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2055351946.index
+\HelloServlet\src
